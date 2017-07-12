@@ -1,0 +1,10 @@
+{
+	"name": "esportsinternships",
+		"version": "1.0.0",
+		"description": "coolest esports internships right now",
+		"author": "Linus Kinzel",
+		"private": true,
+		"scripts": {
+			"postinstall": "npm install express"
+		}
+}
